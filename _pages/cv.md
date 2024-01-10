@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my CV here: [ZIming's Curriculum Vitae](../files/CV_Ziming Luo.pdf)
+You can find my CV here: [Ziming's Curriculum Vitae](../files/CV_Ziming Luo.pdf)
