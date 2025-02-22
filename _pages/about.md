@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my page! I’m a second-year Master’s student in Electrical and Computer Engineering at the [University of Michigan - Ann Arbor](https://ece.engin.umich.edu/) , specializing in Signal Processing and Machine Learning.
+👋 Welcome to my page! I earned my Master degree in Electrical and Computer Engineering from the [University of Michigan - Ann Arbor](https://ece.engin.umich.edu/) in 2024, with a specialization in machine learning and natural language processing.
 
 🔍 My research focuses on advancing LLM-based systems, with an emphasis on enabling explainable and faithful reasoning across modalities. I am passionate about leveraging my expertise in large language models and computer vision to drive innovation in autonomous robots, interdisciplinary AI techniques, and the alignment of AI with human values.
 
