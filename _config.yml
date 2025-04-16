@@ -83,7 +83,7 @@ author:
   name             : "Ziming Luo"
   avatar           : "profile.png"
   bio              : " "
-  location         : "Ann Arbor, MI"
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=PY1t4FwAAAAJ&hl=en
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0009-0005-0310-677X
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
